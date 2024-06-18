@@ -21,3 +21,15 @@ variable "subnetname" {
 variable "ipaddressname" {
   type = string
 }
+
+variable "nsgname" {
+  type = string
+}
+
+variable "nicname" {
+  type = string
+}
+
+variable "virtualMachineName" {
+  type = string
+}

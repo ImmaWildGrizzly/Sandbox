@@ -7,3 +7,6 @@ tags = {
 vnetname = "terraformvnetname"
 subnetname = "terraformsubnetname"
 ipaddressname = "myIpaddress"
+nsgname = "nsgname"
+nicname = "mynic"
+virtualMachineName = "vm1"
